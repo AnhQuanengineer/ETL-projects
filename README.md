@@ -5,6 +5,7 @@ Welcome to Astronomer! This project was generated after you ran 'astro dev init'
 
 Project Contents
 ================
+![Uploading WIN_20241224_01_22_27_Pro.jpg…]()
 
 Your Astro project contains the following files and folders:
 
