@@ -1,7 +1,6 @@
 Overview
 ========
-
-Welcome to Astronomer! This project was generated after you ran 'astro dev init' using the Astronomer CLI. This readme describes the contents of the project, as well as how to run Apache Airflow on your local machine.
+Đây là project tiến hành xây dựng 1 data pipeline để xử lý dữ liệu chứng khoán từ trang https://query1.finance.yahoo.com/v8/finance/chart/aapl?metrics=high?&interval=1d&range=1y sau đó tiến hành ETL để phân tích trên meta base
 ![Image](https://github.com/user-attachments/assets/d622a114-eefa-480b-842e-8e9b5cb5d824)
 Project Contents
 ================
