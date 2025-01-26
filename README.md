@@ -2,11 +2,11 @@ Overview
 ========
 
 Welcome to Astronomer! This project was generated after you ran 'astro dev init' using the Astronomer CLI. This readme describes the contents of the project, as well as how to run Apache Airflow on your local machine.
-
+<!-- Uploading "z6266431750168_632d7a9f9c270a5bf50f71e0d19ee450.jpg"... -->
 Project Contents
 ================
 
-![Image](https://github.com/user-attachments/assets/56ef0700-2761-48c2-9dc4-a09bcb7aec69)
+<!-- Uploading "z6266431750168_632d7a9f9c270a5bf50f71e0d19ee450.jpg"... -->
 Your Astro project contains the following files and folders:
 
 - dags: This folder contains the Python files for your Airflow DAGs. By default, this directory includes one example DAG:
