@@ -1,13 +1,14 @@
 Overview
 ========
 Đây là project tiến hành xây dựng 1 data pipeline để xử lý dữ liệu chứng khoán từ trang https://query1.finance.yahoo.com/v8/finance/chart/aapl?metrics=high?&interval=1d&range=1y sau đó tiến hành ETL để phân tích trên meta base
+
 ![Image](https://github.com/user-attachments/assets/d622a114-eefa-480b-842e-8e9b5cb5d824)
 Project Contents
 ================
 
 
 Your Astro project contains the following files and folders:
-
+Đây là project tiến hành xây dựng 1 data pipeline để xử lý dữ liệu chứng khoán từ trang https://query1.finance.yahoo.com/v8/finance/chart/aapl?metrics=high?&interval=1d&range=1y sau đó tiến hành ETL để phân tích trên meta base
 - dags: This folder contains the Python files for your Airflow DAGs. By default, this directory includes one example DAG:
     - `example_astronauts`: This DAG shows a simple ETL pipeline example that queries the list of astronauts currently in space from the Open Notify API and prints a statement for each astronaut. The DAG uses the TaskFlow API to define tasks in Python, and dynamic task mapping to dynamically print a statement for each astronaut. For more on how this DAG works, see our [Getting started tutorial](https://www.astronomer.io/docs/learn/get-started-with-airflow).
 - Dockerfile: This file contains a versioned Astro Runtime Docker image that provides a differentiated Airflow experience. If you want to execute other commands or overrides at runtime, specify them here.
