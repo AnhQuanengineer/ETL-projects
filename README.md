@@ -38,7 +38,7 @@ You should also be able to access your Minio Database at 'http://localhost:9001'
 
 How to run in your machine
 =================================
-First,you have install docker.\n
+First,you have install docker.
 Second,install Astro CLI using this command "winget install -e --id Astronomer.Astro".
 Third,in your folder you got in github,run this command line in terminal "astro dev start",if you don't get airflow ui,run this "astro dev restart" then go to minio host and airflow host to see the result.
 
