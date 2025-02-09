@@ -2,7 +2,7 @@ Overview
 ========
 This is a project to build a data pipeline to process stock data from the https://query1.finance.yahoo.com/v8/finance/chart/aapl?metrics=high?&interval=1d&range=1y then conduct ETL for analysis on a meta base
 
-![Image](https://github.com/user-attachments/assets/d622a114-eefa-480b-842e-8e9b5cb5d824)
+![Image](https://github.com/user-attachments/assets/d00fe301-39a8-448e-9ff7-ab6e324a256c)
 Project Contents
 ================
 
